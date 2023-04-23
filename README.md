@@ -46,8 +46,10 @@ To use the app, simply enter a location (city, state, country) in the input fiel
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-Created by Jide Awoniyi, Apr 23, 2023.
+
 
 <h2>License</h2>
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+<h5>Created by Jide Awoniyi, Apr 23, 2023.</h5>
