@@ -8,7 +8,7 @@ The app displays the current temperature, weather conditions, and an icon indica
 Users can also view the high and low temperatures for the day, as well as the humidity and wind speed.
 The app includes basic error handling for invalid user input and API errors.
 
-##Requirements
+#Requirements
 To run this app, you will need:
 
 Node.js
@@ -17,7 +17,7 @@ Body-parser
 Cors
 OpenWeatherMap API key
 
-##Installation
+#Installation
 To install the necessary packages, run the following command:
 
 
@@ -35,11 +35,11 @@ Finally, start the server by running the following command:
 
 `The app will be available at http://localhost:8000/.`
 
-##Usage
+#Usage
 To use the app, simply enter a location (city, state, country) in the input field and click the "Get Weather" button. The app will retrieve weather information from the OpenWeatherMap API and display it to the user.
 
-##Contributing
+#Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-##License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
