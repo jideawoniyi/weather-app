@@ -3,19 +3,19 @@ Weather App
 This is a simple weather app that allows users to retrieve weather information based on location. The app retrieves data from the OpenWeatherMap API and displays it to the user.
 
 <h2>Features</h2>
--Users can enter a location (city, state, country) to retrieve weather information.
--The app displays the current temperature, weather conditions, and an icon indicating the current weather.
--Users can also view the high and low temperatures for the day, as well as the humidity and wind speed.
--The app includes basic error handling for invalid user input and API errors.
+*Users can enter a location (city, state, country) to retrieve weather information.
+*The app displays the current temperature, weather conditions, and an icon indicating the current weather.
+*Users can also view the high and low temperatures for the day, as well as the humidity and wind speed.
+*The app includes basic error handling for invalid user input and API errors.
 
 <h2>Requirements</h2>
 To run this app, you will need:
 
--Node.js
--Express.js
--Body-parser
--Cors
--OpenWeatherMap API key
+*Node.js
+*Express.js
+*Body-parser
+*Cors
+*OpenWeatherMap API key
 
 <h2>Installation</h2>
 To install the necessary packages, run the following command:
