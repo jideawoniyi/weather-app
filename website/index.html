@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Journal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Weather Journal</h1>
+    </header>
+    <main>
+        <div class="input-section">
+            <label for="city">City:</label>
+            <input type="text" id="city" placeholder="Enter city">
+            <label for="country">Country Code:</label>
+            <input type="text" id="country" placeholder="Enter country code">
+            <label for="feelings">How are you feeling today?</label>
+            <input type="text" id="feelings" placeholder="Enter your feelings">
+            <button id="generate">Generate</button>
+        </div>
+        <div class="output-section">
+            <div id="date"></div>
+            <div id="temp"></div>
+            <div id="content"></div>
+        </div>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
